@@ -87,15 +87,3 @@ public:
     this->deleteTree(this->root);
   }
 };
-
-int main() {
-
-  BinaryTree<int> myTree;
-  myTree.insertNode(4);
-  myTree.insertNode(2);
-  myTree.insertNode(5);
-  myTree.insertNode(1);
-  myTree.insertNode(3);
-
-  myTree.displayInOrder();
-}
