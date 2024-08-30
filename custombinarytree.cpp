@@ -234,9 +234,3 @@ public:
     this->_deleteTree(this->root);
   }
 };
-
-int main() {
-
-  BinaryTree<int> myTree;
-
-}
