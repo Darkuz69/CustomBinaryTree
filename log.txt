@@ -1,6 +1,6 @@
 📝 Darkuz_69's Log
 
-📅 Date: 08:30 AM of 18/08/24 
+📅 Date: 08:30 AM of 18/08/24
     This is my take on Binary Trees.
     I would like to thank the youtuber "WilliamFiset" for a very good explanation on Binary Trees.
     I was inspired and created this.
@@ -12,8 +12,33 @@
         Remove Function
         Search Function
         Other Display Fucntions using Other traversal methods
-        
+
         Balancing (if I can)
     📬 Pesronal Message to self:
         Wow, Trees nata, how about ang Hash Table?? Need pa tun-an no?? Libug man gud ang hashing HAHAHAHAHA!!
         Anyways, keep learning mah nigga!!
+
+📅 Date: 01:21 PM of 29/08/24
+    📢 Update:
+        I've started working on the Remove function, but I encountered some malfunctions, and I'm still fixing it
+
+    📌 Planning to implement:
+        Remove Function
+        Search Function
+        Other Display Fucntions using Other traversal methods
+
+        Balancing (if I can)
+    📬 Pesronal Message to self:
+        Sulayi kahag solve w/o the help of the internet??
+
+📅 Date: 07:20 AM of 30/08/24
+    📢 Update:
+        Finally fixed the Remove function!! Now, unto the search functions!!
+        Changed the insertion from recursive approach to iterative approach to avoid stack overflow..
+
+    📌 Planning to implement:
+        Search Function
+        Other Display Fucntions using Other traversal methods
+        Balancing (if I can)
+    📬 Pesronal Message to self:
+        I've fixed this shit w/o the help of internet. Although I got the idea of making the inner code into helper functions from the internet, so....
